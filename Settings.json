@@ -1,0 +1,6 @@
+{
+  "host": "localhost",
+  "port": "",
+  "dbname": "dal",
+  "CredentialPath": "../../../../../Credentials/security.json"
+}
